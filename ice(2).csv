@@ -1,6 +1,6 @@
-﻿ID;Jenis Kelamin;Umur;Pendapatan-per-bulan;skor-pengeluaran;Menikah;Kota;Promo;HariFav;FavFlavor
-101;Wanita;49;13114754;52;Menikah;Jakarta;Jarang;Sabtu;Seasalt
-102;Wanita;32;3606557;86;Menikah;Depok;Jarang;Minggu;Coconut
-103;Pria;51;15983606;41;Belum Menikah;Tangerang;Sedang;Minggu;Coklat
-111;Wanita;31;11475409;54;Menikah;Jakarta;NA;Senin;Coconut
-112;Pria;36;22508196;92;Menikah;Depok;Tidak Pernah;Jumat;Vanilla
+﻿ID,Jenis Kelamin,Umur,Pendapatan-per-bulan,skor-pengeluaran,Menikah,Kota,Promo,HariFav,FavFlavor
+101,Wanita,49,13114754,52,Menikah,Jakarta,Jarang,Sabtu,Seasalt
+102,Wanita,32,3606557,86,Menikah,Depok,Jarang,Minggu,Coconut
+103,Pria,51,15983606,41,Belum Menikah,Tangerang,Sedang,Minggu,Coklat
+111,Wanita,31,11475409,54,Menikah,Jakarta,NA,Senin,Coconut
+112,Pria,36,22508196,92,Menikah,Depok,Tidak Pernah,Jumat,Vanilla
